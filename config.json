@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerctringify",
+        "uuid": 13301904,
+        "checksum": "40k23d"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
